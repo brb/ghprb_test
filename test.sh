@@ -1,3 +1,3 @@
 #!/bin/bash
 
-exit 10
+exit 0
